@@ -1,0 +1,7 @@
+La interfaz de la plataforma contaría con un formulario sencillo donde el ciudadano pueda registrar una nueva solicitud, indicando título, descripción y fecha.
+
+Además, mostraría un listado con todas las solicitudes activas, permitiendo que cualquier persona las revise antes de decidir si las respalda.
+
+Cada solicitud tendría un botón visible para dar respaldo, junto con un contador que refleje cuántas personas ya lo han hecho.
+
+Es fundamental que la interfaz sea sencilla de usar y que en ningún momento muestre información personal de los usuarios que participan.

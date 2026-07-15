@@ -1,0 +1,7 @@
+El login es el proceso mediante el cual el sistema reconoce la identidad de una persona antes de permitirle usar ciertas funciones de la plataforma.
+
+Algunas rutas deben permanecer protegidas porque contienen información privada o acciones administrativas que solo deberían estar al alcance de usuarios autorizados.
+
+Si no existiera esta protección, cualquier persona podría modificar registros o acceder a datos que no le corresponden.
+
+Nunca se debe exponer públicamente información como contraseñas, números de identificación, datos de contacto o claves de acceso a servicios externos, ya que esto pone en riesgo la seguridad de toda la comunidad.

@@ -1,0 +1,7 @@
+Una plataforma tecnológica que busca fomentar la participación ciudadana necesita contar con una base de datos sólida, ya que esta permite organizar de manera ordenada toda la información generada por la comunidad.
+
+La autenticación de usuarios es igual de importante, pues garantiza que solo personas autorizadas puedan realizar acciones dentro del sistema, evitando cambios indebidos o accesos no permitidos.
+
+Asimismo, proteger la información es esencial porque una plataforma ciudadana maneja datos que pueden ser sensibles, y su exposición podría generar desconfianza o incluso poner en riesgo a las personas involucradas.
+
+En conjunto, estos tres elementos permiten construir una herramienta confiable, segura y realmente útil para fortalecer los procesos de participación democrática.

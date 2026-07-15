@@ -1,0 +1,22 @@
+Entidad: Solicitud
+
+Campos principales:
+- id
+- titulo
+- descripcion
+- fecha_creacion
+
+Propósito:
+Almacenar las solicitudes o iniciativas comunitarias que los ciudadanos desean visibilizar dentro de la plataforma.
+
+
+Entidad: Respaldo
+
+Campos principales:
+- id
+- solicitud_id
+- usuario
+- fecha_respaldo
+
+Propósito:
+Registrar el respaldo que cada solicitud recibe por parte de los usuarios, permitiendo medir el nivel de participación de la comunidad.

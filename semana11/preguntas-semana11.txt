@@ -1,0 +1,4 @@
+1. Es un sistema que organiza y guarda información de forma estructurada para poder consultarla después.
+2. CRUD hace referencia a las cuatro operaciones básicas sobre datos: crear, leer, actualizar y eliminar.
+3. La autenticación permite reconocer a cada usuario y decidir qué funciones puede utilizar dentro del sistema.
+4. Es clave proteger los datos sensibles para prevenir riesgos de privacidad y usos indebidos de la información de las personas.
