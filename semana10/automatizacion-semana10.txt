@@ -1,0 +1,7 @@
+Evento: se registra una nueva causa en la plataforma.
+
+Acción: enviar un mensaje automático a Telegram usando n8n.
+
+Mensaje: "Nueva causa registrada en la plataforma. Ingresa a revisarla."
+
+Información que no debe enviarse por seguridad: nombres completos, documentos de identidad, direcciones, teléfonos, claves de acceso o cualquier dato personal sensible de quienes participan en la causa.

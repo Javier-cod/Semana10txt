@@ -1,0 +1,5 @@
+Las metodologías ágiles ayudan a organizar mejor el trabajo de una comunidad porque permiten dividir las tareas en partes pequeñas y manejables, evitando que el equipo se sienta abrumado con proyectos demasiado grandes. Trabajar con un backlog priorizado facilita enfocar los esfuerzos en lo que realmente aporta valor en cada momento.
+
+La automatización, cuando se usa de forma responsable, permite que el equipo se entere de eventos importantes sin depender de que alguien esté revisando manualmente todo el tiempo. Esto libera tiempo para tareas que sí requieren criterio humano.
+
+Canales como Telegram fortalecen la coordinación porque permiten convocar, avisar y mantener informado al equipo de manera rápida y accesible, incluso a personas que no tienen conocimientos técnicos. En conjunto, estas herramientas ayudan a que un proceso de participación ciudadana sea más ordenado, transparente y sostenible en el tiempo.

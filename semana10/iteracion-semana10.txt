@@ -1,0 +1,10 @@
+Las dos tareas del backlog que haría primero serían:
+1. Registrar una causa comunitaria.
+2. Recibir una notificación en Telegram cuando se registre una nueva causa.
+
+Considero que son las más importantes porque sin la posibilidad de registrar una causa no existiría información para trabajar, y sin la notificación el equipo no podría hacerle seguimiento oportuno a lo que va surgiendo en la plataforma.
+
+Para mí, que una tarea esté "terminada" significa que cumple con lo siguiente:
+- Funciona correctamente sin errores evidentes.
+- Fue probada al menos una vez antes de darla por finalizada.
+- Quedó registrada y subida en el repositorio de Git.
